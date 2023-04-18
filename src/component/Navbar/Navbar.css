@@ -1,0 +1,28 @@
+.navbar{
+    background-color: #131921;
+    max-height: 9vh;
+    display: flex;
+    align-items: center;
+}
+.navbar img{
+    height:55px;
+    margin: 10px 0 0 10px;
+    
+}
+
+.search_icon{
+    background-color: #cd9042;
+    padding: 11px;
+    border-radius: 5px;
+}
+.search_fild{
+    display: flex;
+    
+    margin-left:15px ;
+}
+.search_fild input{
+    padding: 7px;
+    border: none;
+    flex: 1;
+    
+}
